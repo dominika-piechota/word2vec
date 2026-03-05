@@ -1,3 +1,4 @@
+```markdown
 # Word2Vec from Scratch (Pure NumPy)
 
 This repository contains my implementation of the core Word2Vec training loop using **strictly pure NumPy**. No PyTorch, TensorFlow, or any other high-level ML frameworks were used. 

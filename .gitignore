@@ -3,5 +3,7 @@ env/
 venv/
 __pycache__/
 *.pyc
-raw_data/
+data/
 cleaned_data/
+*.npy
+.DS_Store

@@ -1,4 +1,3 @@
-```markdown
 # Word2Vec from Scratch (Pure NumPy)
 
 This repository contains my implementation of the core Word2Vec training loop using **strictly pure NumPy**. No PyTorch, TensorFlow, or any other high-level ML frameworks were used. 
@@ -29,9 +28,8 @@ For the training corpus, I chose a custom text dataset consisting of three books
 ## How to Run
 
 1. Install the required dependency:
-   ```bash
+```bash
    pip install -r requirements.txt
-
 ```
 
 2. (Optional) Run preprocessing if adding new raw `.txt` files to the `data/` directory:
